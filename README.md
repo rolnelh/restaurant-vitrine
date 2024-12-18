@@ -22,5 +22,5 @@ Ce projet est un site vitrine simple pour un restaurant fictif, présentant ses 
 
 
 🌐 Lien vers le projet en ligne  
-👉 [Voir le site](https://tonnomutilisateur.github.io/restaurant-vitrine)
+👉 [Voir le site](https://rolnelh.github.io/restaurant-vitrine/)
 
